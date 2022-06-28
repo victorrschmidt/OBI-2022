@@ -1,6 +1,6 @@
 // OBI 2022 (Olimpíada Brasileira de Informática)
 // Fase 1
-// Modalidade Programação Nível 2
+// Modalidade Programação (Todos as categorias)
 // Exercício: Hotel 
 // Solução em Javascript 
 
