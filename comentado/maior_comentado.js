@@ -16,12 +16,12 @@ i = -1; // Definir a variável como (-1) para caso não se encaixar na condiçã
 
     while(ct != 0){ // Loop enquanto ct não for 0
       soma += ct % 10; // A soma acrescenta em seu valor ct % 10 (o valor do último dígito de ct)
-      ct = parseInt(ct / 10); // ct é definida como a parte inteira de (ct/10), ou seja, o último dígito é ignorado, assim todos os dígitos serão verificados até ct ser 0
+      ct = parseInt(ct / 10); // ct é redefinida como a parte inteira de (ct/10), ou seja, o último dígito é ignorado, assim todos os dígitos serão verificados até ct chegar a 0
     }
 
-    if(soma == s){ // Caso a soma for igual a variável s
+    if(soma == s){ // Caso a soma for igual a variável 's'
       i = c; // O valor de i será igual ao valor atual de c
-      break; // Encerrar o loop, pois o maior valor de c tal que a soma de seus dígitos é igual a s já foi registrado
+      break; // Encerrar o loop, pois o maior valor de c tal que a soma de seus dígitos é igual a 's' já foi registrado
     }
 
   }
