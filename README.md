@@ -1,4 +1,4 @@
-# OBI-2022 
+# Olimpíada Brasileira de Informática 2022
 
 Soluções dos exercícios da modalidade programação.
 
