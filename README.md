@@ -4,4 +4,4 @@ Soluções dos exercícios da modalidade programação.
 
 Link para os cadernos de tarefas e soluções oficiais:
 
-https://olimpiada.ic.unicamp.br/resultados/fase1/programacao/cadernos/
+<a href="https://olimpiada.ic.unicamp.br/resultados/fase1/programacao/cadernos/" target="_blank">
