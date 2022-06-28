@@ -15,7 +15,7 @@ c = []; // Cartas
 
     scanf("%s","c[i]"); // Ler as cartas
 
-    if(i == 0){ // A primeira carta será usada apenas pra verificar o naipe dominante
+    if(i == 0){ // A primeira carta será usada apenas para verificar o naipe dominante
       continue; // Logo o registro de pontuação (p) será ignorado para para a primeira carta (célula 0 do array de cartas c) e o loop continua
     }
 
